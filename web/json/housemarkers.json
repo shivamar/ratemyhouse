@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "address": "86 Englewood Avenue,Buffalo,NY",
+    "rating": 1.2,
+    "location": {
+      "lat": 42.954118,
+      "lng": -78.826753
+    }
+  },
+  {
+    "id": 2,
+    "address": "56 Englewood Avenue,Buffalo,NY",
+    "rating": 5,
+    "location": {
+      "lat": 42.953736,
+      "lng": -78.825893
+    }
+  },
+  {
+    "id": 1,
+    "address": "23 Englewood Avenue,Buffalo,NY",
+    "rating": 2,
+    "location": {
+      "lat": 42.953701,
+      "lng": -78.824484
+    }
+  },
+  {
+    "id": 1,
+    "address": "27 Merrimac St,Buffalo,NY",
+    "rating": 3,
+    "location": {
+      "lat": 42.952485,
+      "lng": -78.826011
+    }
+  }
+]
