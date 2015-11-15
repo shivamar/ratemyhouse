@@ -45,7 +45,10 @@ function loadMarkers() {
                     infowindow.setContent(getMarkerContent(houses[i]));
                     infowindow.open(map, marker);
                     $('#address').html(houses[i].address);
-                    $('#ratingspan').html(houses[i].rating);
+                    $('#overallrating').html(houses[i].overallrating);
+                    $('#bedbugrating').html(houses[i].bedbugrating);
+                    $('#landlordrating').html(houses[i].landlordrating);
+                    $('#rentrating').html(houses[i].rentrating);
                     $('span.stars').stars();
                 }
             })(marker, i));

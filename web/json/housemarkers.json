@@ -2,7 +2,10 @@
   {
     "id": 1,
     "address": "86 Englewood Avenue,Buffalo,NY",
-    "rating": 1.2,
+    "overallrating": 1.2,
+    "bedbugrating": 2.6,
+    "landlordrating": 1.9,
+    "rentrating": 4.2,
     "location": {
       "lat": 42.954118,
       "lng": -78.826753
@@ -11,6 +14,10 @@
   {
     "id": 2,
     "address": "56 Englewood Avenue,Buffalo,NY",
+    "overallrating": 2.2,
+    "bedbugrating": 4.2,
+    "landlordrating": 3.9,
+    "rentrating": 4.2,
     "rating": 5,
     "location": {
       "lat": 42.953736,
@@ -20,7 +27,10 @@
   {
     "id": 1,
     "address": "23 Englewood Avenue,Buffalo,NY",
-    "rating": 2,
+    "overallrating": 5.2,
+    "bedbugrating": 3.2,
+    "landlordrating": 1.9,
+    "rentrating": 4.2,
     "location": {
       "lat": 42.953701,
       "lng": -78.824484
@@ -29,7 +39,10 @@
   {
     "id": 1,
     "address": "27 Merrimac St,Buffalo,NY",
-    "rating": 3,
+    "overallrating": 3.2,
+    "bedbugrating": 4.2,
+    "landlordrating": 3.9,
+    "rentrating": 4.2,
     "location": {
       "lat": 42.952485,
       "lng": -78.826011
